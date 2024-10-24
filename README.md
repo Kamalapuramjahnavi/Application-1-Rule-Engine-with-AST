@@ -2,7 +2,10 @@
 Developing  a simple 3-tier rule engine application(Simple UI, API and Backend, Data) to determine user eligibility based on attributes like age, department, income, spend etc.
 
 # Rule Engine Application
-Hosted link: https://app1-rule-engine-with-ast.onrender.com/
+![image](https://github.com/user-attachments/assets/073e3c4f-84e6-4460-bcd8-15a79afa5399)
+
+![image](https://github.com/user-attachments/assets/2c0744f4-7869-4d03-8b5d-e8ed6144469e)
+
 
 ## Overview
 
